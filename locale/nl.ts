@@ -21,7 +21,7 @@
     <message>
         <location filename="../ConnectionWindow.cpp" line="87"/>
         <source>&amp;Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Inloggen</translation>
     </message>
     <message>
         <location filename="../ConnectionWindow.cpp" line="95"/>
@@ -36,12 +36,12 @@
     <message>
         <location filename="../ConnectionWindow.cpp" line="78"/>
         <source>Save credentials</source>
-        <translation type="unfinished"></translation>
+        <translation>Sla je gegevens op</translation>
     </message>
     <message>
         <location filename="../ConnectionWindow.cpp" line="100"/>
         <source>&amp;Sign out</source>
-        <translation type="unfinished"></translation>
+        <translation>Uitloggen</translation>
     </message>
     <message>
         <location filename="../ConnectionWindow.cpp" line="102"/>
@@ -51,22 +51,22 @@
     <message>
         <location filename="../ConnectionWindow.cpp" line="108"/>
         <source>Logging in...</source>
-        <translation type="unfinished"></translation>
+        <translation>Aan het inloggen...</translation>
     </message>
     <message>
         <location filename="../ConnectionWindow.cpp" line="114"/>
         <source>Invalid username or password</source>
-        <translation type="unfinished"></translation>
+        <translation>Verkeerde gebruikersnaam of wachtwoord</translation>
     </message>
     <message>
         <location filename="../ConnectionWindow.cpp" line="157"/>
         <source>Signing out...</source>
-        <translation type="unfinished"></translation>
+        <translation>Aan het uitloggen...</translation>
     </message>
     <message>
         <location filename="../ConnectionWindow.cpp" line="162"/>
         <source>Invalid token</source>
-        <translation type="unfinished"></translation>
+        <translation>Foute token</translation>
     </message>
     <message>
         <location filename="../ConnectionWindow.cpp" line="171"/>
@@ -76,12 +76,12 @@
     <message>
         <location filename="../ConnectionWindow.cpp" line="211"/>
         <source>Checking account...</source>
-        <translation type="unfinished"></translation>
+        <translation>Account aan het bekijken...</translation>
     </message>
     <message>
         <location filename="../ConnectionWindow.cpp" line="278"/>
         <source>Client is out of date. Please update.</source>
-        <translation>De client is verouderd. Gelieve deze updaten.</translation>
+        <translation>Je applicatie is verouderd. Gelieve deze bij te werken.</translation>
     </message>
     <message>
         <location filename="../ConnectionWindow.cpp" line="320"/>
@@ -106,12 +106,12 @@
 Would you like to download it now?</source>
         <translation>Er is een update voor %1 beschikbaar.
 
-Wilt u het nu downloaden?</translation>
+Wilt u deze update nu downloaden?</translation>
     </message>
     <message>
         <location filename="../ConnectionWindow.cpp" line="394"/>
         <source>&amp;Download Now</source>
-        <translation>&amp;Nu Downloaden</translation>
+        <translation>&amp;Download nu</translation>
     </message>
     <message>
         <location filename="../ConnectionWindow.cpp" line="395"/>
@@ -134,7 +134,7 @@ Wilt u het nu downloaden?</translation>
     <message>
         <location filename="../LogWindow.cpp" line="87"/>
         <source>&amp;Save Log to File</source>
-        <translation>&amp;Sla log naar bestand op</translation>
+        <translation>&amp;Log opslaan naar een bestand</translation>
     </message>
     <message>
         <location filename="../LogWindow.cpp" line="88"/>
@@ -156,7 +156,7 @@ Wilt u het nu downloaden?</translation>
     <message>
         <location filename="../OpenVpnRunner.cpp" line="213"/>
         <source>Server connection error. Try another server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Server verbinding mislukt. Probeer een andere server.</translation>
     </message>
 </context>
 <context>
@@ -183,7 +183,7 @@ Wilt u het nu downloaden?</translation>
     <message>
         <location filename="../StatusIcon.cpp" line="37"/>
         <source>&amp;Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Inloggen</translation>
     </message>
     <message>
         <location filename="../StatusIcon.cpp" line="43"/>
